@@ -1,6 +1,7 @@
 # AR BALLOON SHOOTER
 
 ## Requirements
+- Git LFS: https://git-lfs.github.com/
 - Unity: Unity 2020.3.13f1
 
 # Android
